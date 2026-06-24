@@ -50,7 +50,7 @@ Plain fingerprint summary: The calibrated null test did not find a strong reusab
 
 ## Generated Tickets
 
-01. [8, 9, 13, 24, 32, 34, 37]
+01. [8, x, 13, y, 32, z, 37]
 
 ## Ticket Set Historical Fit
 
@@ -79,7 +79,7 @@ Plain fingerprint summary: The calibrated null test did not find a strong reusab
 - Repeat jobs: `1`
 - Total shots: `32768`
 - Encode values (pos 1–5 u kolu, 6–7 izvedene): `[5, 10, 15, 20, 25]`
-- Top quantum combo (7): `[1, 19, 7, 6, 22, 28, 24]` (p=0.0014)
+- Top quantum combo (7): `[1, x, 7, y, 22, z, 24]` (p=0.0014)
 Lokalni Aer simulator (qc25, 5×5 kubita). Kolo ne „razume” loto — audit/backtest je sloj razumevanja.
 
 ## Plain Warning
