@@ -13,7 +13,7 @@ Question: Is there measurable non-random structure, and does it survive out-of-s
 
 ## Evidence
 
-- Draws loaded: `4638` from `1990-01-01` to `2002-09-12`.
+- Draws loaded: `4638` from `1985-07-30` to `2026-06-23`.
 - Data quality usable: `True`.
 - Duplicate draw dates: `0`.
 - Range/size/duplicate-number errors: `0` / `0` / `0`.
